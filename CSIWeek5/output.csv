@@ -1,0 +1,7 @@
+clientno,name,addresss1,address2,city,pincode,state,baldue
+C00001,Ivan Bayross,a1,a2,Mumbai,400054,Maharashtra,15000.0
+C00002,Mamta Muzumdar,a1,a2,Madras,780001,Tamil Nadu,0.0
+C00003,Chhaya Bankar,a1,a2,Mumbai,400057,Maharashtra,5000.0
+C00004,Ashwini Joshi,a1,a2,Bangalore,560001,Karnataka,0.0
+C00005,Hansel Colaco,a1,a2,Mumbai,400060,Maharashtra,2000.0
+C00006,Deepak Sharma,a1,a2,Mangalore,560050,Karnataka,0.0
